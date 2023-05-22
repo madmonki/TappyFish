@@ -1,2 +1,2 @@
 # TappyFish
-Panteon Akademi 2D game
+Flappy Bird clone - 2D game
