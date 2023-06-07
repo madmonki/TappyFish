@@ -25,7 +25,7 @@ public class ObstacleSpawner : MonoBehaviour
 
     void Update()
     {
-        if (GameManager.gameOver == false && GameManager.gameStarted == true)
+        if (GameManager.gameOver == false)
         {
             timer += Time.deltaTime;
 
